@@ -1,0 +1,3 @@
+INFERENCE:
+
+from the first bar graph we can infer that KNN has the highest accuracy and thus we can conclude that KNN is best suitable model for the provided dataset.We can also notice that MLP also comes close to KNN in-terms of accuracy.Hence both KNN (more preferrabe) and MLP can be used for this dataset.
